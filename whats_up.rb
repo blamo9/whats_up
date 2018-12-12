@@ -1,2 +1,3 @@
 puts "Hello, world!"
-puts 1
+puts "Whats your name?"
+name = gets.chomp
